@@ -11,3 +11,6 @@ JavaScript library for manipulating documents based on data
 ***
 # Chained Transitions
 ![Alt Text](https://github.com/ofuen/D3JavaScript/blob/master/images/2018-11-04_17-44-33.gif)
+***
+# Rainbow Pack
+![Alt Text](https://github.com/ofuen/D3JavaScript/blob/master/images/2018-11-04_18-32-27.gif)
